@@ -1,0 +1,13 @@
+Name,Version,Summary,Home-page,Author,Author-email,License,Requires,Required-by,OSI Approved :,,,,,,,,,,None,MIT,"attrs, tomli, atomicwrites, pluggy, iniconfig, py, colorama, packaging"
+atomicwrites,1.4.1,Atomic file writes.,https://github.com/untitaker/python-atomicwrites,Markus Unterwaditzer,markus@unterwaditzer.net,MIT,,pytest,MIT License,,,,,,,,,,,,
+attrs,22.1.0,Classes Without Boilerplate,https://www.attrs.org/,Hynek Schlawack,hs@ox.cx,MIT,,pytest,,,,,,,,,,,,,
+colorama,0.4.5,Cross-platform colored terminal text.,https://github.com/tartley/colorama,Jonathan Hartley,tartley@tartley.com,BSD,,pytest,,,,,,,,,,,,,
+iniconfig,1.1.1,brain-dead simple config-ini parsing,http://github.com/RonnyPfannschmidt/iniconfig,"Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin and others","opensource@ronnypfannschmidt.de, holger.krekel@gmail.com",,,,,,,,,,,,,,,,
+packaging,21.3,Core utilities for Python packages,https://github.com/pypa/packaging,Donald Stufft and individual contributors,donald@stufft.io,BSD-2-Clause or Apache-2.0,pyparsing,pytest,Home-page,,,,,,,,,,,,
+pip,21.1.1,The PyPA recommended tool for installing Python packages.,https://pip.pypa.io/,The pip developers,distutils-sig@python.org,MIT,,,,,,,,,,,,,,,
+pluggy,1.0.0,plugin and hook calling mechanisms for python,https://github.com/pytest-dev/pluggy,Holger Krekel,holger@merlinux.eu,MIT,,pytest,,,,,,,,,,,,,
+py,1.11.0,"library with cross-python path, ini-parsing, io, code, log facilities",https://py.readthedocs.io/,"holger krekel, Ronny Pfannschmidt, Benjamin Peterson and others",pytest-dev@python.org,MIT license,,pytest,,,,,,,,,,,,,
+pyparsing,3.0.9,pyparsing module - Classes and methods to define and execute parsing grammars,None,None,Paul McGuire <ptmcg.gm+pyparsing@gmail.com>,None,,packaging,,,,,,,,,,,,,
+pytest,7.1.2,simple powerful testing with Python,https://docs.pytest.org/en/latest/,,,,,,,,,,,,,,,,,,
+setuptools,56.0.0,"Easily download, build, install, upgrade, and uninstall Python packages",https://github.com/pypa/setuptools,Python Packaging Authority,distutils-sig@python.org,UNKNOWN,,,,,,,,,,,,,,,
+tomli,2.0.1,A lil' TOML parser,None,None,Taneli Hukkinen <hukkin@users.noreply.github.com>,None,,pytest,,,,,,,,,,,,,
